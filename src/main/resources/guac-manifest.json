@@ -1,0 +1,12 @@
+{
+
+    "guacamoleVersion" : "${guacamole.version}",
+
+    "name"      : "Anonymous Guest Authentication for KCM",
+    "namespace" : "kcm-guest",
+
+    "authProviders" : [
+        "com.keepersecurity.kcm.guest.GuestAuthenticationProvider"
+    ]
+
+}
