@@ -24,7 +24,7 @@
     <groupId>com.keepersecurity</groupId>
     <artifactId>kcm-auth-guest</artifactId>
     <packaging>jar</packaging>
-    <version>1.5.2-1</version>
+    <version>1.5.2-2</version>
     <name>kcm-auth-guest</name>
 
     <properties>
